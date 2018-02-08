@@ -1,0 +1,9 @@
+
+coff/symboltable.d
+    coff/symbol.d
+        llvm/Object/package.d
+            llvm/Support/Endian.d
+
+llvm.Support.Error
+    llvm.Support.raw_ostream
+        cpp.std.string
